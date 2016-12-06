@@ -1,2 +1,2 @@
 # WebDevelopementCourse
-Repository for Coursera course on wen developement
+Repository for Coursera course on web developement
